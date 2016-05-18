@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Voice Reverser</string>
+
+    <string name="nomicpermission">This app requires the mic permission in order to start the recording.</string>
+
+    <string name="touchtorecord">tap to record</string>
+    <string name="recording">recording&#8230;</string>
+    <string name="touchtoplay">tap to play</string>
+    <string name="playing">playing&#8230;</string>
+</resources>
