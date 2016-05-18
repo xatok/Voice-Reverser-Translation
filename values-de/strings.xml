@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stimme Rückwärts</string>
+    
+    <string name="touchtorecord">tippen sie bis\naufnahme</string>
+    <string name="recording">aufnahme&#8230;</string>
+    <string name="touchtoplay">tippen sie bis\nwiedergabe</string>
+    <string name="playing">wiedergabe&#8230;</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Invertitore di Voce</string>
+    
+    <string name="touchtorecord">toccare per\nregistrare</string>
+    <string name="recording">registrazione&#8230;</string>
+    <string name="touchtoplay">toccare per\nriproduci</string>
+    <string name="playing">riproduzione&#8230;</string>
+	
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inverseur de Voix</string>
+    
+    <string name="touchtorecord">appuyez sur pour\nl\'enregistrement</string>
+    <string name="recording">enregistrement&#8230;</string>
+    <string name="touchtoplay">appuyez sur pour\nlire</string>
+    <string name="playing">lecture&#8230;</string>
+
+</resources>

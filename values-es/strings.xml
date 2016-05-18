@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inversor de Voz</string>
+
+    <string name="nomicpermission">Ésta aplicación requiere permiso para el uso el micrófono para empezar a grabar.</string>
+    
+    <string name="touchtorecord">toca para grabar</string>
+    <string name="recording">grabando&#8230;</string>
+    <string name="touchtoplay">toca para\nreproducir</string>
+    <string name="playing">reproduciendo&#8230;</string>
+</resources>

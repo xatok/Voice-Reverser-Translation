@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">음성 인버터</string>
+    
+    <string name="touchtorecord">꼭지</string>
+    <string name="recording">녹음&#8230;</string>
+    <string name="touchtoplay">꼭지</string>
+    <string name="playing">오디오 재생&#8230;</string>
+
+</resources>
